@@ -138,7 +138,7 @@ export class SimpleActionNode extends SyncActionNode{
     public constructor(name:string,func:TickFunctorAction){
         super(name);
         this.mTickFunction = func;
-    }
+    } 
     public Tick(): NodeStatus {
         let prev_status:NodeStatus = this.Status();
         if (prev_status == NodeStatus.IDLE){
