@@ -1,0 +1,133 @@
+
+{
+    "1":{ 
+        "attack":5,
+        "defrence":5,
+        "hp":50,
+        "criticalPercent":0,
+        "criticalAddition":0,
+        "expCost":300,
+        "attackSpeed":1,
+        "expAward": 5
+    },
+    "2":{ 
+        "attack":7,
+        "defrence":7,
+        "hp":70,
+        "criticalPercent":0,
+        "criticalAddition":0,
+        "expCost":500,
+        "attackSpeed":1,
+        "expAward": 5
+    }, 
+    "3":{ 
+        "attack":10,
+        "defrence":10,
+        "hp":100,
+        "criticalPercent":0,
+        "criticalAddition":0,
+        "expCost":800,
+        "attackSpeed":1,
+        "expAward": 5
+    },
+    "4":{ 
+        "attack":17,
+        "defrence":17,
+        "hp":170,
+        "criticalPercent":10,
+        "criticalAddition":0,
+        "expCost":1200,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "5":{ 
+        "attack":25,
+        "defrence":18,
+        "hp":340,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "6":{ 
+        "attack":40,
+        "defrence":18,
+        "hp":400,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "7":{ 
+        "attack":80,
+        "defrence":18,
+        "hp":444,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "8":{ 
+        "attack":25,
+        "defrence":18,
+        "hp":340,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "9":{ 
+        "attack":25,
+        "defrence":18,
+        "hp":340,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "10":{ 
+        "attack":25,
+        "defrence":18,
+        "hp":340,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "11":{ 
+        "attack":25,
+        "defrence":18,
+        "hp":340,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "12":{ 
+        "attack":25,
+        "defrence":18,
+        "hp":340,
+        "criticalPercent":10.5,
+        "criticalAddition":0,
+        "expCost":1500,
+        "attackSpeed":1,
+        "expAward": 8
+    }, 
+    "13":{ 
+        "attack":9999999,
+        "defrence":999999,
+        "hp":999999,
+        "criticalPercent":80,
+        "criticalAddition":3.39,
+        "expCost":9999,
+        "attackSpeed":1,
+        "expAward":999
+    }
+}
