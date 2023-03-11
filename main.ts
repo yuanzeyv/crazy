@@ -4,7 +4,7 @@
 // const app = express() 
 
 import { BaseMVCRegister } from "./Frame/MVCRegister/BaseMVCRegister";
-
+//cons
  
 // const rootPath = path.join(__dirname, 'public')
 // app.use(serveStatic(rootPath))
