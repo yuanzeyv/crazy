@@ -15,7 +15,7 @@ import { BaseMVCRegister } from "./Frame/MVCRegister/BaseMVCRegister";
 /*  
 {
     ID:"root",  
-    BehaviorTree:{
+    BehaviorTree:{   
         
     }
 } 
