@@ -7,7 +7,7 @@ import { BaseMVCRegister } from "./Frame/MVCRegister/BaseMVCRegister";
 
  
 // const rootPath = path.join(__dirname, 'public')
-// app.use(serveStatic(rootPath))
+// app.use(serveStatic(rootPath))   
 // app.listen(8888, ()=> {
 //     console.log('http://localhost:8888 started. Location: ' + rootPath)
 // }) 
