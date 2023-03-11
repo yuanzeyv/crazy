@@ -12,9 +12,9 @@ import { BaseMVCRegister } from "./Frame/MVCRegister/BaseMVCRegister";
 //     console.log('http://localhost:8888 started. Location: ' + rootPath)
 // }) 
 //root节点应该包含 一个 或多个行为树
-/*
+/*  
 {
-    ID:"root",
+    ID:"root",  
     BehaviorTree:{
         
     }
